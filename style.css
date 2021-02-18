@@ -1,0 +1,76 @@
+
+body{
+	padding: 0; 
+	margin: 0;
+	font-family: 'Open Sans', sans-serif;
+	color: purple;
+	font-style: bold;
+}
+
+.navbarreplik{
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	background-color: #8AEA92;
+	width: 100%;
+}
+
+.navbarlinksreplik{
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+	background-color: #52b788;
+	width: 30%;
+}
+
+.bannerreplik{
+	background-image: url("main robot main humain.png");
+	background-size: cover;
+	height: 500px;
+	background-position: center;
+	text-align: center;
+	padding: 200px;
+}
+
+
+.conceptreplik{
+	text-align: center;
+	height: 200px;
+	background-color: pink;
+	padding: 50px;
+}
+
+.valeursreplik{
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	width: 100%;
+	
+}	
+
+.boxreplik{
+	border: solid black;
+	height: 200px;
+	width: 300px;
+	background-color: #88E7A5;
+	align-items: center;
+	padding: 30px;
+	text-align: center;
+}
+
+.a{
+	align-items: center;
+}
+p{
+	color: purple;
+	vertical-align: middle;
+}	
+
+h3{
+	color: purple;
+	text-align: center;
+}	
+
+
+.footer{
+	
